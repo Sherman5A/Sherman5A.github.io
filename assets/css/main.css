@@ -2088,14 +2088,6 @@ input, select, textarea {
 			margin: 0;
 		}
 
-		#banner .resize {
-			display: block;
-			margin-left: 30%;
-			max-width: 120%;
-			max-height: 120%;
-
-		}
-
 		#banner .button {
 			width: 100%;
 			margin-bottom: 0.5em;
