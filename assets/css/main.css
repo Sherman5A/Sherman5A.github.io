@@ -2073,6 +2073,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
+		text-align: center;
 		position: relative;
 		padding: 4.5em;
 	}
@@ -2089,7 +2090,7 @@ input, select, textarea {
 		}
 
 		#image_logo {
-			max-width: 100%;
+			margin-left: 7em;
 		}
 
 		#banner .button {
