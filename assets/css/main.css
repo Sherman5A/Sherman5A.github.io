@@ -2088,6 +2088,10 @@ input, select, textarea {
 			margin: 0;
 		}
 
+		#image_logo {
+			max-width: 100%;
+		}
+
 		#banner .button {
 			width: 100%;
 			margin-bottom: 0.5em;
