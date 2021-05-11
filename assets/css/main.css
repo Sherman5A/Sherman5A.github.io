@@ -2089,8 +2089,11 @@ input, select, textarea {
 			margin: 0;
 		}
 
-		#image_logo {
-			margin-left: 7em;
+		#banner .image_logo {
+			max-width: 100;
+			height: auto;
+
+
 		}
 
 		#banner .button {
